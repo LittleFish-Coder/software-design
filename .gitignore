@@ -1,0 +1,8 @@
+# ENV
+.DS_Store
+*.
+.*
+
+# folder
+.metadata
+bin/
